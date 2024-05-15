@@ -1,1 +1,1 @@
-# Ad Revenue Prediction
+This repository contains self-project model developed to estimate advertisement revenue using numpy, pandas, sklearn, seaborn, catboost, xgboost and lightgbm for Exploratory Data Analysis. Also used feature engineering on initial data and grid search for hyperparameter tuning.
